@@ -1,37 +1,55 @@
 [
    {
-      "provinces_key": [
-         "AB",
-         "BC",
-         "MB",
-         "NB",
-         "NL",
-         "NT",
-         "NS",
-         "NU",
-         "ON",
-         "PE",
-         "QC",
-         "SK",
-         "YT"
-      ]
+      "initials": "AB",
+      "name": "Alberta"
    },
    {
-      "provinces_name": [
-         "Alberta",
-         "British Columbia",
-         "Manitoba",
-         "New Brunswick",
-         "Newfoundland & Labrador",
-         "Northwest Territories",
-         "Nova Scotia",
-         "Nunavut",
-         "Ontario",
-         "Prince Edward Island",
-         "Quebec",
-         "Saskatchewan",
-         "Yukon"
-      ]
-   }
+      "initials": "BC",
+      "name": "British Columbia"
+   },
+   {
+      "initials": "MB",
+      "name": "Manitoba"
+   },
+   {
+      "initials": "NB",
+      "name": "New Brunswick"
+   },
+   {
+      "initials": "NL",
+      "name": "Newfoundland & Labrador"
+   },
+   {
+      "initials": "NT",
+      "name": "Northwest Territories"
+   },
+   {
+      "initials": "NS",
+      "name": "Nova Scotia"
+   },
+   {
+      "initials": "NU",
+      "name": "Nunavut"
+   },
+   {
+      "initials": "ON",
+      "name": "Ontario"
+   },
+   {
+      "initials": "PE",
+      "name": "Prince Edward Island"
+   },
+   {
+      "initials": "QC",
+      "name": "Quebec"
+   },
+   {
+      "initials": "SK",
+      "name": "Saskatchewan"
+   },
+   {
+      "initials": "YT",
+      "name": "Yukon
+   {
 ]
 
